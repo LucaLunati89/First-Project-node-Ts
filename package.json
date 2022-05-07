@@ -10,5 +10,8 @@
     "stockhausen"
   ],
   "author": "Luca Lunati",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/LucaLunati89/First-Project-node-Ts"
+  }
 }
